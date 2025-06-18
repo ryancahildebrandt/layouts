@@ -1,0 +1,25 @@
+{
+  "name": "KB03-01",
+  "vendorProductId": 3490710273,
+  "macros": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""],
+  "layers": [
+    ["KC_MPRV", "KC_MPLY", "KC_MNXT", "TO(1)", "KC_MUTE"],
+    ["KC_MPRV", "KC_MPLY", "KC_MNXT", "TO(2)", "KC_MUTE"],
+    ["KC_MPRV", "KC_MPLY", "KC_MNXT", "TO(3)", "KC_MUTE"],
+    ["KC_MPRV", "KC_MPLY", "KC_MNXT", "TO(0)", "KC_MUTE"]
+  ],
+  "encoders": [
+    [
+      ["KC_VOLD", "KC_VOLU"],
+      ["KC_VOLD", "KC_VOLU"],
+      ["KC_VOLD", "KC_VOLU"],
+      ["KC_VOLD", "KC_VOLU"]
+    ],
+    [
+      ["KC_BRIU", "KC_BRID"],
+      ["KC_BRIU", "KC_BRID"],
+      ["KC_BRIU", "KC_BRID"],
+      ["KC_BRIU", "KC_BRID"]
+    ]
+  ]
+}
