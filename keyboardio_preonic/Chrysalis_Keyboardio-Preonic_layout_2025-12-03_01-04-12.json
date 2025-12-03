@@ -70,59 +70,136 @@
         "label": {"base": {"full": "Play / pause", "1u": "⏯"}},
         "categories": ["consumer"]
       },
-      {"code": 41, "label": {"base": "Esc"}},
-      {"code": 30, "label": {"base": "1", "shifted": "!"}},
-      {"code": 31, "label": {"base": "2", "shifted": "@"}},
-      {"code": 32, "label": {"base": "3", "shifted": "#"}},
-      {"code": 33, "label": {"base": "4", "shifted": "$"}},
-      {"code": 34, "label": {"base": "5", "shifted": "%"}},
-      {"code": 35, "label": {"base": "6", "shifted": "^"}},
-      {"code": 36, "label": {"base": "7", "shifted": "&"}},
-      {"code": 37, "label": {"base": "8", "shifted": "*"}},
-      {"code": 38, "label": {"base": "9", "shifted": "("}},
-      {"code": 39, "label": {"base": "0", "shifted": ")"}},
-      {"code": 45, "label": {"base": "-", "shifted": "_"}},
-      {"code": 43, "label": {"base": "Tab"}},
       {"code": 20, "label": {"base": "q", "shifted": "Q"}},
       {"code": 26, "label": {"base": "w", "shifted": "W"}},
       {"code": 8, "label": {"base": "e", "shifted": "E"}},
       {"code": 21, "label": {"base": "r", "shifted": "R"}},
       {"code": 23, "label": {"base": "t", "shifted": "T"}},
+      {
+        "code": 65535,
+        "label": {"base": {"full": "Transparent", "1u": " "}},
+        "categories": ["blanks"]
+      },
+      {
+        "code": 65535,
+        "label": {"base": {"full": "Transparent", "1u": " "}},
+        "categories": ["blanks"]
+      },
       {"code": 28, "label": {"base": "y", "shifted": "Y"}},
       {"code": 24, "label": {"base": "u", "shifted": "U"}},
       {"code": 12, "label": {"base": "i", "shifted": "I"}},
       {"code": 18, "label": {"base": "o", "shifted": "O"}},
       {"code": 19, "label": {"base": "p", "shifted": "P"}},
-      {"code": 42, "label": {"base": {"full": "Backspace", "1u": "Bksp"}}},
-      {"code": 43, "label": {"base": "Tab"}},
       {"code": 4, "label": {"base": "a", "shifted": "A"}},
       {"code": 22, "label": {"base": "s", "shifted": "S"}},
       {"code": 7, "label": {"base": "d", "shifted": "D"}},
       {"code": 9, "label": {"base": "f", "shifted": "F"}},
       {"code": 10, "label": {"base": "g", "shifted": "G"}},
+      {
+        "code": 65535,
+        "label": {"base": {"full": "Transparent", "1u": " "}},
+        "categories": ["blanks"]
+      },
+      {
+        "code": 65535,
+        "label": {"base": {"full": "Transparent", "1u": " "}},
+        "categories": ["blanks"]
+      },
       {"code": 11, "label": {"base": "h", "shifted": "H"}},
       {"code": 13, "label": {"base": "j", "shifted": "J"}},
       {"code": 14, "label": {"base": "k", "shifted": "K"}},
       {"code": 15, "label": {"base": "l", "shifted": "L"}},
-      {"code": 51, "label": {"base": ";", "shifted": ":"}},
-      {"code": 52, "label": {"base": "'", "shifted": "\""}},
-      {
-        "code": 225,
-        "label": {"base": "Shift"},
-        "location": "left",
-        "categories": ["modifier"]
-      },
+      {"code": 42, "label": {"base": {"full": "Backspace", "1u": "Bksp"}}},
       {"code": 29, "label": {"base": "z", "shifted": "Z"}},
       {"code": 27, "label": {"base": "x", "shifted": "X"}},
       {"code": 6, "label": {"base": "c", "shifted": "C"}},
       {"code": 25, "label": {"base": "v", "shifted": "V"}},
       {"code": 5, "label": {"base": "b", "shifted": "B"}},
+      {
+        "code": 65535,
+        "label": {"base": {"full": "Transparent", "1u": " "}},
+        "categories": ["blanks"]
+      },
+      {
+        "code": 65535,
+        "label": {"base": {"full": "Transparent", "1u": " "}},
+        "categories": ["blanks"]
+      },
       {"code": 17, "label": {"base": "n", "shifted": "N"}},
       {"code": 16, "label": {"base": "m", "shifted": "M"}},
       {"code": 54, "label": {"base": ",", "shifted": "<"}},
       {"code": 55, "label": {"base": ".", "shifted": ">"}},
-      {"code": 56, "label": {"base": "/", "shifted": "?"}},
       {"code": 40, "label": {"base": "Enter"}},
+      {
+        "code": 65535,
+        "label": {"base": {"full": "Transparent", "1u": " "}},
+        "categories": ["blanks"]
+      },
+      {
+        "code": 65535,
+        "label": {"base": {"full": "Transparent", "1u": " "}},
+        "categories": ["blanks"]
+      },
+      {
+        "code": 65535,
+        "label": {"base": {"full": "Transparent", "1u": " "}},
+        "categories": ["blanks"]
+      },
+      {
+        "code": 65535,
+        "label": {"base": {"full": "Transparent", "1u": " "}},
+        "categories": ["blanks"]
+      },
+      {
+        "code": 65535,
+        "label": {"base": {"full": "Transparent", "1u": " "}},
+        "categories": ["blanks"]
+      },
+      {
+        "code": 65535,
+        "label": {"base": {"full": "Transparent", "1u": " "}},
+        "categories": ["blanks"]
+      },
+      {
+        "code": 65535,
+        "label": {"base": {"full": "Transparent", "1u": " "}},
+        "categories": ["blanks"]
+      },
+      {
+        "code": 65535,
+        "label": {"base": {"full": "Transparent", "1u": " "}},
+        "categories": ["blanks"]
+      },
+      {
+        "code": 65535,
+        "label": {"base": {"full": "Transparent", "1u": " "}},
+        "categories": ["blanks"]
+      },
+      {
+        "code": 65535,
+        "label": {"base": {"full": "Transparent", "1u": " "}},
+        "categories": ["blanks"]
+      },
+      {
+        "code": 65535,
+        "label": {"base": {"full": "Transparent", "1u": " "}},
+        "categories": ["blanks"]
+      },
+      {
+        "code": 65535,
+        "label": {"base": {"full": "Transparent", "1u": " "}},
+        "categories": ["blanks"]
+      },
+      {
+        "code": 65535,
+        "label": {"base": {"full": "Transparent", "1u": " "}},
+        "categories": ["blanks"]
+      },
+      {
+        "code": 65535,
+        "label": {"base": {"full": "Transparent", "1u": " "}},
+        "categories": ["blanks"]
+      },
       {
         "code": 224,
         "label": {"base": {"full": "Control", "1u": "Ctrl"}},
@@ -148,25 +225,36 @@
         "categories": ["modifier"]
       },
       {
-        "code": 17451,
-        "label": {"hint": "ShiftTo", "base": "#1"},
-        "target": 1,
-        "rangeStart": 17450,
-        "categories": ["layer", "shifttolayer"]
+        "code": 227,
+        "label": {"base": {"full": "Super", "1u": "Sup.", "short": "Su"}},
+        "location": "left",
+        "categories": ["modifier"]
       },
-      {"code": 44, "label": {"base": "Space"}},
       {"code": 44, "label": {"base": "Space"}},
       {
-        "code": 17452,
-        "label": {"hint": "ShiftTo", "base": "#2"},
-        "target": 2,
-        "rangeStart": 17450,
-        "categories": ["layer", "shifttolayer"]
+        "code": 17493,
+        "label": {"hint": "MoveTo", "base": "#1"},
+        "target": 1,
+        "rangeStart": 17492,
+        "categories": ["layer", "movetolayer"]
       },
-      {"code": 80, "label": {"base": {"full": "Left Arrow", "1u": "←"}}},
-      {"code": 81, "label": {"base": {"full": "Down Arrow", "1u": "↓"}}},
-      {"code": 82, "label": {"base": {"full": "Up Arrow", "1u": "↑"}}},
-      {"code": 79, "label": {"base": {"full": "Right Arrow", "1u": "→"}}}
+      {
+        "code": 17494,
+        "label": {"hint": "MoveTo", "base": "#2"},
+        "target": 2,
+        "rangeStart": 17492,
+        "categories": ["layer", "movetolayer"]
+      },
+      {
+        "code": 65535,
+        "label": {"base": {"full": "Transparent", "1u": " "}},
+        "categories": ["blanks"]
+      },
+      {
+        "code": 65535,
+        "label": {"base": {"full": "Transparent", "1u": " "}},
+        "categories": ["blanks"]
+      }
     ],
     [
       {
@@ -190,14 +278,20 @@
         "categories": ["blanks"]
       },
       {
-        "code": 65535,
-        "label": {"base": {"full": "Transparent", "1u": " "}},
-        "categories": ["blanks"]
+        "code": 18666,
+        "label": {
+          "hint": {"full": "Volume", "1u": "Vol."},
+          "base": {"full": "Down", "1u": "🔉"}
+        },
+        "categories": ["consumer"]
       },
       {
-        "code": 65535,
-        "label": {"base": {"full": "Transparent", "1u": " "}},
-        "categories": ["blanks"]
+        "code": 18665,
+        "label": {
+          "hint": {"full": "Volume", "1u": "Vol."},
+          "base": {"full": "Up", "1u": "🔊"}
+        },
+        "categories": ["consumer"]
       },
       {
         "code": 0,
@@ -228,70 +322,19 @@
         "categories": ["ledkeys"]
       },
       {
-        "code": 65535,
-        "label": {"base": {"full": "Transparent", "1u": " "}},
-        "categories": ["blanks"]
+        "code": 18637,
+        "label": {"base": {"full": "Play / pause", "1u": "⏯"}},
+        "categories": ["consumer"]
       },
-      {"code": 53, "label": {"base": "`", "shifted": "~"}},
+      {"code": 58, "label": {"base": "F1"}},
+      {"code": 59, "label": {"base": "F2"}},
+      {"code": 60, "label": {"base": "F3"}},
+      {"code": 61, "label": {"base": "F4"}},
       {
-        "code": 65535,
-        "label": {"base": {"full": "Transparent", "1u": " "}},
-        "categories": ["blanks"]
-      },
-      {
-        "code": 65535,
-        "label": {"base": {"full": "Transparent", "1u": " "}},
-        "categories": ["blanks"]
-      },
-      {
-        "code": 65535,
-        "label": {"base": {"full": "Transparent", "1u": " "}},
-        "categories": ["blanks"]
-      },
-      {
-        "code": 65535,
-        "label": {"base": {"full": "Transparent", "1u": " "}},
-        "categories": ["blanks"]
-      },
-      {
-        "code": 65535,
-        "label": {"base": {"full": "Transparent", "1u": " "}},
-        "categories": ["blanks"]
-      },
-      {
-        "code": 65535,
-        "label": {"base": {"full": "Transparent", "1u": " "}},
-        "categories": ["blanks"]
-      },
-      {"code": 54, "label": {"base": ",", "shifted": "<"}},
-      {"code": 56, "label": {"base": "/", "shifted": "?"}},
-      {
-        "code": 2085,
-        "label": {"hint": {"full": "", "1u": ""}, "base": "*"},
-        "categories": ["with-modifiers", "shift"],
-        "baseCode": 37
-      },
-      {"code": 45, "label": {"base": "-", "shifted": "_"}},
-      {"code": 46, "label": {"base": "=", "shifted": "+"}},
-      {
-        "code": 65535,
-        "label": {"base": {"full": "Transparent", "1u": " "}},
-        "categories": ["blanks"]
-      },
-      {
-        "code": 65535,
-        "label": {"base": {"full": "Transparent", "1u": " "}},
-        "categories": ["blanks"]
-      },
-      {
-        "code": 65535,
-        "label": {"base": {"full": "Transparent", "1u": " "}},
-        "categories": ["blanks"]
-      },
-      {
-        "code": 65535,
-        "label": {"base": {"full": "Transparent", "1u": " "}},
-        "categories": ["blanks"]
+        "code": 53596,
+        "label": {"hint": {"full": "Dynamic Macro", "1u": "DM"}, "base": "#0"},
+        "rangeStart": 53596,
+        "categories": ["dynmacros"]
       },
       {
         "code": 65535,
@@ -304,30 +347,19 @@
         "categories": ["blanks"]
       },
       {"code": 54, "label": {"base": ",", "shifted": "<"}},
-      {"code": 36, "label": {"base": "7", "shifted": "&"}},
-      {"code": 37, "label": {"base": "8", "shifted": "*"}},
-      {"code": 38, "label": {"base": "9", "shifted": "("}},
+      {"code": 95, "label": {"base": "7"}, "location": "numpad"},
+      {"code": 96, "label": {"base": "8"}, "location": "numpad"},
+      {"code": 97, "label": {"base": "9"}, "location": "numpad"},
       {"code": 45, "label": {"base": "-", "shifted": "_"}},
-      {"code": 42, "label": {"base": {"full": "Backspace", "1u": "Bksp"}}},
+      {"code": 62, "label": {"base": "F5"}},
+      {"code": 63, "label": {"base": "F6"}},
+      {"code": 64, "label": {"base": "F7"}},
+      {"code": 65, "label": {"base": "F8"}},
       {
-        "code": 65535,
-        "label": {"base": {"full": "Transparent", "1u": " "}},
-        "categories": ["blanks"]
-      },
-      {
-        "code": 65535,
-        "label": {"base": {"full": "Transparent", "1u": " "}},
-        "categories": ["blanks"]
-      },
-      {
-        "code": 65535,
-        "label": {"base": {"full": "Transparent", "1u": " "}},
-        "categories": ["blanks"]
-      },
-      {
-        "code": 65535,
-        "label": {"base": {"full": "Transparent", "1u": " "}},
-        "categories": ["blanks"]
+        "code": 53597,
+        "label": {"hint": {"full": "Dynamic Macro", "1u": "DM"}, "base": "#1"},
+        "rangeStart": 53596,
+        "categories": ["dynmacros"]
       },
       {
         "code": 65535,
@@ -340,30 +372,19 @@
         "categories": ["blanks"]
       },
       {"code": 55, "label": {"base": ".", "shifted": ">"}},
-      {"code": 33, "label": {"base": "4", "shifted": "$"}},
-      {"code": 34, "label": {"base": "5", "shifted": "%"}},
-      {"code": 35, "label": {"base": "6", "shifted": "^"}},
-      {"code": 87, "label": {"base": "+"}, "location": "numpad"},
-      {"code": 54, "label": {"base": ",", "shifted": "<"}},
+      {"code": 92, "label": {"base": "4"}, "location": "numpad"},
+      {"code": 93, "label": {"base": "5"}, "location": "numpad"},
+      {"code": 94, "label": {"base": "6"}, "location": "numpad"},
+      {"code": 42, "label": {"base": {"full": "Backspace", "1u": "Bksp"}}},
+      {"code": 66, "label": {"base": "F9"}},
+      {"code": 67, "label": {"base": "F10"}},
+      {"code": 68, "label": {"base": "F11"}},
+      {"code": 69, "label": {"base": "F12"}},
       {
-        "code": 65535,
-        "label": {"base": {"full": "Transparent", "1u": " "}},
-        "categories": ["blanks"]
-      },
-      {
-        "code": 65535,
-        "label": {"base": {"full": "Transparent", "1u": " "}},
-        "categories": ["blanks"]
-      },
-      {
-        "code": 65535,
-        "label": {"base": {"full": "Transparent", "1u": " "}},
-        "categories": ["blanks"]
-      },
-      {
-        "code": 65535,
-        "label": {"base": {"full": "Transparent", "1u": " "}},
-        "categories": ["blanks"]
+        "code": 53598,
+        "label": {"hint": {"full": "Dynamic Macro", "1u": "DM"}, "base": "#2"},
+        "rangeStart": 53596,
+        "categories": ["dynmacros"]
       },
       {
         "code": 65535,
@@ -379,12 +400,6 @@
       {"code": 30, "label": {"base": "1", "shifted": "!"}},
       {"code": 31, "label": {"base": "2", "shifted": "@"}},
       {"code": 32, "label": {"base": "3", "shifted": "#"}},
-      {
-        "code": 2094,
-        "label": {"hint": {"full": "", "1u": ""}, "base": "+"},
-        "categories": ["with-modifiers", "shift"],
-        "baseCode": 46
-      },
       {"code": 40, "label": {"base": "Enter"}},
       {
         "code": 65535,
@@ -436,7 +451,76 @@
         "label": {"base": {"full": "Transparent", "1u": " "}},
         "categories": ["blanks"]
       },
-      {"code": 40, "label": {"base": "Enter"}},
+      {
+        "code": 65535,
+        "label": {"base": {"full": "Transparent", "1u": " "}},
+        "categories": ["blanks"]
+      },
+      {
+        "code": 65535,
+        "label": {"base": {"full": "Transparent", "1u": " "}},
+        "categories": ["blanks"]
+      },
+      {
+        "code": 65535,
+        "label": {"base": {"full": "Transparent", "1u": " "}},
+        "categories": ["blanks"]
+      },
+      {
+        "code": 65535,
+        "label": {"base": {"full": "Transparent", "1u": " "}},
+        "categories": ["blanks"]
+      },
+      {
+        "code": 224,
+        "label": {"base": {"full": "Control", "1u": "Ctrl"}},
+        "location": "left",
+        "categories": ["modifier"]
+      },
+      {
+        "code": 225,
+        "label": {"base": "Shift"},
+        "location": "left",
+        "categories": ["modifier"]
+      },
+      {
+        "code": 226,
+        "label": {"base": "Alt"},
+        "location": "left",
+        "categories": ["modifier"]
+      },
+      {
+        "code": 227,
+        "label": {"base": {"full": "Super", "1u": "Sup.", "short": "Su"}},
+        "location": "left",
+        "categories": ["modifier"]
+      },
+      {
+        "code": 227,
+        "label": {"base": {"full": "Super", "1u": "Sup.", "short": "Su"}},
+        "location": "left",
+        "categories": ["modifier"]
+      },
+      {"code": 44, "label": {"base": "Space"}},
+      {
+        "code": 17493,
+        "label": {"hint": "MoveTo", "base": "#1"},
+        "target": 1,
+        "rangeStart": 17492,
+        "categories": ["layer", "movetolayer"]
+      },
+      {
+        "code": 17494,
+        "label": {"hint": "MoveTo", "base": "#2"},
+        "target": 2,
+        "rangeStart": 17492,
+        "categories": ["layer", "movetolayer"]
+      },
+      {
+        "code": 65535,
+        "label": {"base": {"full": "Transparent", "1u": " "}},
+        "categories": ["blanks"]
+      },
       {
         "code": 65535,
         "label": {"base": {"full": "Transparent", "1u": " "}},
@@ -465,13 +549,24 @@
         "categories": ["blanks"]
       },
       {
-        "code": 65535,
-        "label": {"base": {"full": "Transparent", "1u": " "}},
-        "categories": ["blanks"]
+        "code": 18666,
+        "label": {
+          "hint": {"full": "Volume", "1u": "Vol."},
+          "base": {"full": "Down", "1u": "🔉"}
+        },
+        "categories": ["consumer"]
       },
       {
-        "code": 65535,
-        "label": {"base": {"full": "Transparent", "1u": " "}},
+        "code": 18665,
+        "label": {
+          "hint": {"full": "Volume", "1u": "Vol."},
+          "base": {"full": "Up", "1u": "🔊"}
+        },
+        "categories": ["consumer"]
+      },
+      {
+        "code": 0,
+        "label": {"base": {"full": "Blocked", "1u": "Blkd"}},
         "categories": ["blanks"]
       },
       {
@@ -485,38 +580,24 @@
         "categories": ["blanks"]
       },
       {
-        "code": 0,
-        "label": {"base": {"full": "Blocked", "1u": "Blkd"}},
-        "categories": ["blanks"]
+        "code": 17153,
+        "label": {
+          "hint": {"full": "LEDEffect", "1u": "LED"},
+          "base": {"full": "Previous", "1u": "Prev."}
+        },
+        "categories": ["ledkeys"]
       },
       {
-        "code": 65535,
-        "label": {"base": {"full": "Transparent", "1u": " "}},
-        "categories": ["blanks"]
+        "code": 17152,
+        "label": {"hint": {"full": "LEDEffect", "1u": "LED"}, "base": "Next"},
+        "categories": ["ledkeys"]
       },
       {
-        "code": 65535,
-        "label": {"base": {"full": "Transparent", "1u": " "}},
-        "categories": ["blanks"]
+        "code": 18637,
+        "label": {"base": {"full": "Play / pause", "1u": "⏯"}},
+        "categories": ["consumer"]
       },
-      {
-        "code": 65535,
-        "label": {"base": {"full": "Transparent", "1u": " "}},
-        "categories": ["blanks"]
-      },
-      {"code": 53, "label": {"base": "`", "shifted": "~"}},
-      {"code": 58, "label": {"base": "F1"}},
-      {"code": 59, "label": {"base": "F2"}},
-      {"code": 60, "label": {"base": "F3"}},
-      {"code": 61, "label": {"base": "F4"}},
-      {"code": 62, "label": {"base": "F5"}},
-      {"code": 63, "label": {"base": "F6"}},
-      {"code": 64, "label": {"base": "F7"}},
-      {"code": 65, "label": {"base": "F8"}},
-      {"code": 66, "label": {"base": "F9"}},
-      {"code": 67, "label": {"base": "F10"}},
-      {"code": 42, "label": {"base": {"full": "Backspace", "1u": "Bksp"}}},
-      {"code": 43, "label": {"base": "Tab"}},
+      {"code": 41, "label": {"base": "Esc"}},
       {
         "code": 18665,
         "label": {
@@ -542,27 +623,21 @@
         "label": {"base": {"full": "Transparent", "1u": " "}},
         "categories": ["blanks"]
       },
+      {"code": 45, "label": {"base": "-", "shifted": "_"}},
+      {"code": 46, "label": {"base": "=", "shifted": "+"}},
       {
-        "code": 65535,
-        "label": {"base": {"full": "Transparent", "1u": " "}},
-        "categories": ["blanks"]
+        "code": 2086,
+        "label": {"hint": {"full": "", "1u": ""}, "base": "("},
+        "categories": ["with-modifiers", "shift"],
+        "baseCode": 38
       },
       {
-        "code": 65535,
-        "label": {"base": {"full": "Transparent", "1u": " "}},
-        "categories": ["blanks"]
+        "code": 2087,
+        "label": {"hint": {"full": "", "1u": ""}, "base": ")"},
+        "categories": ["with-modifiers", "shift"],
+        "baseCode": 39
       },
-      {
-        "code": 65535,
-        "label": {"base": {"full": "Transparent", "1u": " "}},
-        "categories": ["blanks"]
-      },
-      {
-        "code": 65535,
-        "label": {"base": {"full": "Transparent", "1u": " "}},
-        "categories": ["blanks"]
-      },
-      {"code": 42, "label": {"base": {"full": "Backspace", "1u": "Bksp"}}},
+      {"code": 49, "label": {"base": "\\", "shifted": "|"}},
       {"code": 43, "label": {"base": "Tab"}},
       {
         "code": 18666,
@@ -585,34 +660,12 @@
         "label": {"base": {"full": "Transparent", "1u": " "}},
         "categories": ["blanks"]
       },
-      {
-        "code": 65535,
-        "label": {"base": {"full": "Transparent", "1u": " "}},
-        "categories": ["blanks"]
-      },
-      {
-        "code": 2086,
-        "label": {"hint": {"full": "", "1u": ""}, "base": "("},
-        "categories": ["with-modifiers", "shift"],
-        "baseCode": 38
-      },
-      {
-        "code": 2087,
-        "label": {"hint": {"full": "", "1u": ""}, "base": ")"},
-        "categories": ["with-modifiers", "shift"],
-        "baseCode": 39
-      },
-      {
-        "code": 65535,
-        "label": {"base": {"full": "Transparent", "1u": " "}},
-        "categories": ["blanks"]
-      },
-      {"code": 49, "label": {"base": "\\", "shifted": "|"}},
-      {
-        "code": 65535,
-        "label": {"base": {"full": "Transparent", "1u": " "}},
-        "categories": ["blanks"]
-      },
+      {"code": 51, "label": {"base": ";", "shifted": ":"}},
+      {"code": 52, "label": {"base": "'", "shifted": "\""}},
+      {"code": 47, "label": {"base": "[", "shifted": "{"}},
+      {"code": 48, "label": {"base": "]", "shifted": "}"}},
+      {"code": 56, "label": {"base": "/", "shifted": "?"}},
+      {"code": 57, "label": {"base": {"full": "Caps Lock", "1u": "Caps"}}},
       {"code": 18658, "label": {"base": "Mute"}, "categories": ["consumer"]},
       {"code": 70, "label": {"base": {"full": "Print Screen", "1u": "PrSc"}}},
       {"code": 74, "label": {"base": "Home"}},
@@ -627,59 +680,136 @@
         "label": {"base": {"full": "Transparent", "1u": " "}},
         "categories": ["blanks"]
       },
-      {
-        "code": 65535,
-        "label": {"base": {"full": "Transparent", "1u": " "}},
-        "categories": ["blanks"]
-      },
-      {"code": 47, "label": {"base": "[", "shifted": "{"}},
-      {"code": 48, "label": {"base": "]", "shifted": "}"}},
-      {"code": 49, "label": {"base": "\\", "shifted": "|"}},
-      {"code": 40, "label": {"base": "Enter"}},
-      {
-        "code": 65535,
-        "label": {"base": {"full": "Transparent", "1u": " "}},
-        "categories": ["blanks"]
-      },
-      {
-        "code": 65535,
-        "label": {"base": {"full": "Transparent", "1u": " "}},
-        "categories": ["blanks"]
-      },
-      {
-        "code": 65535,
-        "label": {"base": {"full": "Transparent", "1u": " "}},
-        "categories": ["blanks"]
-      },
-      {
-        "code": 65535,
-        "label": {"base": {"full": "Transparent", "1u": " "}},
-        "categories": ["blanks"]
-      },
-      {
-        "code": 65535,
-        "label": {"base": {"full": "Transparent", "1u": " "}},
-        "categories": ["blanks"]
-      },
-      {
-        "code": 65535,
-        "label": {"base": {"full": "Transparent", "1u": " "}},
-        "categories": ["blanks"]
-      },
-      {
-        "code": 65535,
-        "label": {"base": {"full": "Transparent", "1u": " "}},
-        "categories": ["blanks"]
-      },
-      {
-        "code": 65535,
-        "label": {"base": {"full": "Transparent", "1u": " "}},
-        "categories": ["blanks"]
-      },
+      {"code": 53, "label": {"base": "`", "shifted": "~"}},
       {"code": 80, "label": {"base": {"full": "Left Arrow", "1u": "←"}}},
       {"code": 81, "label": {"base": {"full": "Down Arrow", "1u": "↓"}}},
       {"code": 82, "label": {"base": {"full": "Up Arrow", "1u": "↑"}}},
-      {"code": 79, "label": {"base": {"full": "Right Arrow", "1u": "→"}}}
+      {"code": 79, "label": {"base": {"full": "Right Arrow", "1u": "→"}}},
+      {
+        "code": 65535,
+        "label": {"base": {"full": "Transparent", "1u": " "}},
+        "categories": ["blanks"]
+      },
+      {
+        "code": 65535,
+        "label": {"base": {"full": "Transparent", "1u": " "}},
+        "categories": ["blanks"]
+      },
+      {
+        "code": 65535,
+        "label": {"base": {"full": "Transparent", "1u": " "}},
+        "categories": ["blanks"]
+      },
+      {
+        "code": 65535,
+        "label": {"base": {"full": "Transparent", "1u": " "}},
+        "categories": ["blanks"]
+      },
+      {
+        "code": 65535,
+        "label": {"base": {"full": "Transparent", "1u": " "}},
+        "categories": ["blanks"]
+      },
+      {
+        "code": 65535,
+        "label": {"base": {"full": "Transparent", "1u": " "}},
+        "categories": ["blanks"]
+      },
+      {
+        "code": 65535,
+        "label": {"base": {"full": "Transparent", "1u": " "}},
+        "categories": ["blanks"]
+      },
+      {
+        "code": 65535,
+        "label": {"base": {"full": "Transparent", "1u": " "}},
+        "categories": ["blanks"]
+      },
+      {
+        "code": 65535,
+        "label": {"base": {"full": "Transparent", "1u": " "}},
+        "categories": ["blanks"]
+      },
+      {
+        "code": 65535,
+        "label": {"base": {"full": "Transparent", "1u": " "}},
+        "categories": ["blanks"]
+      },
+      {
+        "code": 65535,
+        "label": {"base": {"full": "Transparent", "1u": " "}},
+        "categories": ["blanks"]
+      },
+      {
+        "code": 65535,
+        "label": {"base": {"full": "Transparent", "1u": " "}},
+        "categories": ["blanks"]
+      },
+      {
+        "code": 65535,
+        "label": {"base": {"full": "Transparent", "1u": " "}},
+        "categories": ["blanks"]
+      },
+      {
+        "code": 65535,
+        "label": {"base": {"full": "Transparent", "1u": " "}},
+        "categories": ["blanks"]
+      },
+      {
+        "code": 224,
+        "label": {"base": {"full": "Control", "1u": "Ctrl"}},
+        "location": "left",
+        "categories": ["modifier"]
+      },
+      {
+        "code": 225,
+        "label": {"base": "Shift"},
+        "location": "left",
+        "categories": ["modifier"]
+      },
+      {
+        "code": 226,
+        "label": {"base": "Alt"},
+        "location": "left",
+        "categories": ["modifier"]
+      },
+      {
+        "code": 227,
+        "label": {"base": {"full": "Super", "1u": "Sup.", "short": "Su"}},
+        "location": "left",
+        "categories": ["modifier"]
+      },
+      {
+        "code": 227,
+        "label": {"base": {"full": "Super", "1u": "Sup.", "short": "Su"}},
+        "location": "left",
+        "categories": ["modifier"]
+      },
+      {"code": 44, "label": {"base": "Space"}},
+      {
+        "code": 17493,
+        "label": {"hint": "MoveTo", "base": "#1"},
+        "target": 1,
+        "rangeStart": 17492,
+        "categories": ["layer", "movetolayer"]
+      },
+      {
+        "code": 17494,
+        "label": {"hint": "MoveTo", "base": "#2"},
+        "target": 2,
+        "rangeStart": 17492,
+        "categories": ["layer", "movetolayer"]
+      },
+      {
+        "code": 65535,
+        "label": {"base": {"full": "Transparent", "1u": " "}},
+        "categories": ["blanks"]
+      },
+      {
+        "code": 65535,
+        "label": {"base": {"full": "Transparent", "1u": " "}},
+        "categories": ["blanks"]
+      }
     ],
     [
       {
@@ -2941,7 +3071,7 @@
   "deviceConfiguration": {
     "colormap.map": "15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15",
     "escape_oneshot.cancel_key": "41",
-    "keymap.custom": "0 0 0 0 18666 18665 0 0 0 17153 17152 18637 41 30 31 32 33 34 35 36 37 38 39 45 43 20 26 8 21 23 28 24 12 18 19 42 43 4 22 7 9 10 11 13 14 15 51 52 225 29 27 6 25 5 17 16 54 55 56 40 224 225 226 227 17451 44 44 17452 80 81 82 79 0 0 0 0 65535 65535 0 0 0 17153 17152 65535 53 65535 65535 65535 65535 65535 65535 54 56 2085 45 46 65535 65535 65535 65535 65535 65535 54 36 37 38 45 42 65535 65535 65535 65535 65535 65535 55 33 34 35 87 54 65535 65535 65535 65535 65535 65535 39 30 31 32 2094 40 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 40 65535 0 0 0 0 65535 65535 0 0 0 65535 65535 65535 53 58 59 60 61 62 63 64 65 66 67 42 43 18665 18637 76 75 65535 65535 65535 65535 65535 65535 42 43 18666 71 73 78 65535 65535 65535 2086 2087 65535 49 65535 18658 70 74 77 65535 65535 65535 47 48 49 40 65535 65535 65535 65535 65535 65535 65535 65535 80 81 82 79 0 0 0 0 65535 65535 0 0 0 65535 65535 65535 16497 16512 16513 16514 16515 16498 65535 65535 65535 65535 65535 24576 17152 65535 18665 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 18614 18666 18613 65535 65535 65535 65535 65535 65535 65535 65535 53696 65535 18658 65535 65535 65535 65535 65535 65535 65535 65535 65535 24585 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535",
+    "keymap.custom": "0 0 0 0 18666 18665 0 0 0 17153 17152 18637 20 26 8 21 23 65535 65535 28 24 12 18 19 4 22 7 9 10 65535 65535 11 13 14 15 42 29 27 6 25 5 65535 65535 17 16 54 55 40 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 224 225 226 227 227 44 17493 17494 65535 65535 0 0 0 0 18666 18665 0 0 0 17153 17152 18637 58 59 60 61 53596 65535 65535 54 95 96 97 45 62 63 64 65 53597 65535 65535 55 92 93 94 42 66 67 68 69 53598 65535 65535 39 30 31 32 40 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 224 225 226 227 227 44 17493 17494 65535 65535 0 0 0 0 18666 18665 0 0 0 17153 17152 18637 41 18665 18637 76 75 65535 65535 45 46 2086 2087 49 43 18666 71 73 78 65535 65535 51 52 47 48 56 57 18658 70 74 77 65535 65535 53 80 81 82 79 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 224 225 226 227 227 44 17493 17494 65535 65535 0 0 0 0 65535 65535 0 0 0 65535 65535 65535 16497 16512 16513 16514 16515 16498 65535 65535 65535 65535 65535 24576 17152 65535 18665 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 18614 18666 18613 65535 65535 65535 65535 65535 65535 65535 65535 53696 65535 18658 65535 65535 65535 65535 65535 65535 65535 65535 65535 24585 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535 65535",
     "layernames": {
       "storageSize": 128,
       "names": ["#0", "#1", "#2", "#3", "#4", "#5", "#6", "#7", "#8"]
@@ -2949,7 +3079,7 @@
     "keymap.onlyCustom": true,
     "led.brightness": "255",
     "led_mode.default": "2",
-    "macros.map": "255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255",
+    "macros.map": "6 224 8 27 7 224 0 6 224 8 6 7 224 0 6 224 8 25 7 224 0 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255",
     "mousekeys.accel_duration": "1000",
     "mousekeys.base_speed": "50",
     "mousekeys.init_speed": "1",
